@@ -1,4 +1,4 @@
-# Python Basics Tutorial
+# Python Basics Tutorial Contributing With Naveen Automation Labs
 
 Welcome to the Python Basics Tutorial project! This repository is designed to help beginners get started with Python programming by covering essential topics such as data types, conditional statements, loops, lists, sets, tuples, dictionaries, and object-oriented programming (OOP).
 
